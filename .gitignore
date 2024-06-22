@@ -1,0 +1,23 @@
+# Node modules
+backend-node/node_modules/
+frontend-angular/node_modules/
+
+# Composer vendor directory
+backend-php/vendor/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# IDE directories
+.idea/
+.vscode/
+
+# Built assets
+frontend-angular/dist/
+
+# Berlioz cache et logs
+backend-php/var/cache/
+backend-php/var/logs/
