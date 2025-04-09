@@ -1,0 +1,6 @@
+[submodule "backend-php"]
+	path = backend-php
+	url = git@github.com:Malamdg/bridge-discord-twitch-backoffice.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Malamdg/bridge-discord-twitch-frontend.git
